@@ -87,6 +87,11 @@ body {
   gap: 32px;
 }
 
+ion-icon {
+  color: var(--cor-terciaria);
+  font-size: 2rem;
+}
+
 .apresentacao__conteudo__links__navegacao {
   display: flex;
   justify-content: center;
